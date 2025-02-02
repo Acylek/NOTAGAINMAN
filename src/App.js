@@ -6,7 +6,7 @@ function App() {
     <div className="bg">
       <iframe
         className="video"
-        src="/index.html"
+        src="/godot/index.html"
         title="Tower Defense"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
